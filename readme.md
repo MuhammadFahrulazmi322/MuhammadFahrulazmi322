@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahrul Azmi Husni</h1>
-<h3 align="center">I love design and make new things especially for make an website & app</h3>
+<h3 align="center">I'm a passionate full-stack developer with a focus on mobile and web development. I enjoy creating user-friendly and visually appealing applications using a variety of technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfahrulazmi322&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahrulazmi322" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
