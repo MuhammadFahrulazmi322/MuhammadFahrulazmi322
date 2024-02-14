@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahrul Azmi Husni</h1>
-<h3 align="center">I'm a passionate full-stack developer with a focus on mobile and web development. I enjoy creating user-friendly and visually appealing applications using a variety of technologies</h3>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Wordpress%20Developer;Experienced%20UI%2FUX%20Designer;4%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <br/>
+  I'm a passionate full-stack developer with a focus on mobile and web development. I enjoy creating user-friendly and visually appealing applications using a variety of technologies
+  
+</h3>
+
+**`Wordpress Developer | Full-stack Developer`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfahrulazmi322&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahrulazmi322" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="300" alt="img-programming" />
