@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **fazmi322@gmail.com**
 
-- 📄 Know about my experiences [fazmi.linkustart.com](fazmi.linkustart.com)
+- 📄 Know about my experiences https://fazmi.linkustart.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
