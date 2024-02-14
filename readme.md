@@ -19,7 +19,7 @@
 - 🤝 I’m make an Android App client for [Beritaku Application](https://fazmi.linkustart.com/beritaku-application/)
 - 🤝 I’m make Desktop app client for [Klinik Gigi Mentari](https://fazmi.linkustart.com/klinik-gigi-mentari-desktop-application/)
 
-- 👨‍💻 All of my projects are available at [fazmi.linkustart.com](fazmi.linkustart.com)
+- 👨‍💻 All of my projects are available at [fazmi.linkustart.com](https://fazmi.linkustart.com/)
 
 - 📝 I regularly write articles on [https://fazmi.linkustart.com/blog/](https://fazmi.linkustart.com/blog/)
 
