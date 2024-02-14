@@ -36,7 +36,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<p>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;"  alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -53,6 +54,7 @@
   <img  align="left" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" alt="tailwind" width="40" height="40"/>
 </a>
+</p>
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfahrulazmi322&show_icons=true&locale=en&layout=compact" alt="muhammadfahrulazmi322" /></p>
