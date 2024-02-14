@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahrul Azmi Husni</h1>
 <h3 align="center">I love design and make new things especially for make an website & app</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300" alt="img-programming" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfahrulazmi322&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahrulazmi322" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="300" alt="img-programming" />
 - 🔭 I’m currently working on **Universitas Mikroskil**
 
 - 👯 I’m collaborate as UI/UX on [Mr Binz IoT App Smart Bin](https://fazmi.linkustart.com/mr-binz-iot-application-smart-bin/)
