@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahrul Azmi Husni</h1>
 <h3 align="center">I love design and make new things especially for make an website & app</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="400" alt="img-programming" />
+<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300" alt="img-programming" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfahrulazmi322&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfahrulazmi322" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
