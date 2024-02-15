@@ -59,7 +59,7 @@
 
 <br/>
 <br/>
-<hr/>
+
 <h3 align="left">Statistic Github:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfahrulazmi322&show_icons=true&locale=en&layout=compact" alt="muhammadfahrulazmi322" /></p>
 
