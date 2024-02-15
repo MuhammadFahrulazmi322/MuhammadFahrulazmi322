@@ -40,7 +40,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p  align="left">
-<img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3school.com/css" target="_blank" rel="noreferrer"><img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;"  alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -54,11 +54,12 @@
   <img  align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img  align="left" src="https://reactnative.dev/img/header_logo.svg" style="padding-right:10px;" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img  align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" alt="tailwind" width="40" height="40"/>
+  <img  align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 <br/>
-
+<br/>
+<hr/>
 <h3 align="left">Statistic Github:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfahrulazmi322&show_icons=true&locale=en&layout=compact" alt="muhammadfahrulazmi322" /></p>
 
