@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahrul Azmi Husni</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Wordpress%20Developer;Experienced%20UI%2FUX%20Designer;4%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;r;4%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   <br/>
-  I'm a passionate full-stack developer with a focus on mobile and web development. I enjoy creating user-friendly and visually appealing applications using a variety of technologies
+  I'm a passionate as Frontend React JS Developer with a focus on mobile and web development. I enjoy creating user-friendly and visually appealing applications using a variety of technologies
   
 </h3>
 
