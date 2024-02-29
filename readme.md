@@ -17,19 +17,19 @@
 
 - 👯 I’m collaborate as UI/UX on [Mr Binz IoT App Smart Bin](https://fazmi.linkustart.com/mr-binz-iot-application-smart-bin/)
 
-- 🤝 I’m make an Android App client for [Beritaku Application](https://fazmi.linkustart.com/beritaku-application/)
-- 🤝 I’m make Desktop app client for [Klinik Gigi Mentari](https://fazmi.linkustart.com/klinik-gigi-mentari-desktop-application/)
+- 🤝 I’m make an Android App client for [Beritaku Application](https://fazmi.id/beritaku-page/)
+- 🤝 I’m make Desktop app client for [Klinik Gigi Mentari](https://fazmi.id/klinik-gigi-mentari-page/)
 - 🤝 I’m make Website with Wordpress Elementor on [Linkustart](https://linkustart.com)
 
-- 👨‍💻 All of my projects are available at [fazmi.linkustart.com](https://fazmi.linkustart.com/)
+- 👨‍💻 All of my projects are available at [fazmi.id](https://fazmi.id/)
 
-- 📝 I regularly write articles on [https://fazmi.linkustart.com/blog/](https://fazmi.linkustart.com/blog/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@fazmi322)
 
 - 💬 Ask me about **react, wordpress development (plugins & themes) & UI/UX**
 
 - 📫 How to reach me **fazmi322@gmail.com**
 
-- 📄 Know about my experiences https://fazmi.linkustart.com/
+- 📄 Know about my experiences https://fazmi.id/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
