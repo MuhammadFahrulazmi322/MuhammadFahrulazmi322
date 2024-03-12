@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Universitas Mikroskil](https://mikroskil.ac.id)
 
-- 👯 I’m collaborate as UI/UX on [Mr Binz IoT App Smart Bin](https://fazmi.linkustart.com/mr-binz-iot-application-smart-bin/)
+- 👯 I’m collaborate as UI/UX on [Mr Binz IoT App Smart Bin](https://fazmi.id/mr-binz-iot-application-smart-bin/)
 
 - 🤝 I’m make an Android App client for [Beritaku Application](https://fazmi.id/beritaku-page/)
 - 🤝 I’m make Desktop app client for [Klinik Gigi Mentari](https://fazmi.id/klinik-gigi-mentari-page/)
