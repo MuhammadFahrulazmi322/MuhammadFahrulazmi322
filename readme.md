@@ -15,17 +15,17 @@
 
 - 🔭 I’m currently working on [Universitas Mikroskil](https://mikroskil.ac.id)
 
-- 👯 I’m collaborate as UI/UX on [Mr Binz IoT App Smart Bin](https://fazmi.id/mr-binz-iot-application-smart-bin/)
+- 👯 I’m collaborate as UI/UX on [Mr Binz IoT App Smart Bin](https://drive.google.com/file/d/1gPhZ1hVAqUblG0meNdOazzU1CPuOEz9Z/view)
 
-- 🤝 I’m make an Android App client for [Beritaku Application](https://fazmi.id/beritaku-page/)
-- 🤝 I’m make Desktop app client for [Klinik Gigi Mentari](https://fazmi.id/klinik-gigi-mentari-page/)
+- 🤝 I’m make an Android App client for [Beritaku Application](https://www.youtube.com/watch?v=n-U9-qsNFGE&t=7s)
+- 🤝 I’m make Desktop app client for [Klinik Gigi Mentari](https://www.youtube.com/watch?v=Jt9dzO60p44&t=3s)
 - 🤝 I’m make Website with Wordpress Elementor on [Linkustart](https://linkustart.com)
 
 - 👨‍💻 All of my projects are available at [fazmi.id](https://fazmi.id/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@fazmi322)
 
-- 💬 Ask me about **react, wordpress development (plugins & themes) & UI/UX**
+- 💬 Ask me about **next, react, wordpress development (plugins & themes) & UI/UX**
 
 - 📫 How to reach me **fazmi322@gmail.com**
 
